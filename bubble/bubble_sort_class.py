@@ -32,3 +32,4 @@ bubble1 = BubbleSort()
 
 # 实例化对象bubble1调用BubbleSort的bubble_sort方法，并传入参数为list_test1列表
 print(bubble1.bubble_sort(list_test1))
+# print(bubble1.bubble_sort(list_test2))
